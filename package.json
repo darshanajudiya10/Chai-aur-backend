@@ -1,0 +1,24 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "a backend for social media app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanajudiya10/Chai-aur-backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Darshan Ajudiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanajudiya10/Chai-aur-backend/issues"
+  },
+  "homepage": "https://github.com/darshanajudiya10/Chai-aur-backend#readme"
+}
