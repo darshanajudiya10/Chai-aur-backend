@@ -6,3 +6,5 @@ class ApiReponse {
         this.success = true
     }
 }
+
+export {ApiReponse}
